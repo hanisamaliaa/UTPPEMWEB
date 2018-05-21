@@ -1,0 +1,10 @@
+body{
+    background: #c0c0c0;
+}
+div.keluar{
+    padding: 16px 16px;
+    margin: 0 auto;
+    border-radius: 2px;
+    color: #fff;
+    cursor: pointer;
+}
