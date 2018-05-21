@@ -1,0 +1,1 @@
+insert into login values('Hanis','12345');
